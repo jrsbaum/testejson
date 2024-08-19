@@ -1,0 +1,62 @@
+{
+  "theme": {
+    "colors": {
+      "palette": {
+        "primary": "#4A4325",
+        "secondary": "#462D16",
+        "tertiary": "371A0B",
+        "quaternary": "#1798FF",
+        "quinary": "EDE3DA"
+      },
+      "background": {
+        "primary": "#FBF8F6",
+        "secondary": "#F3EFEA"
+      },
+      "neutral": {
+        "t10": "#1E1E1E",
+        "t20": "#323232",
+        "t30": "#494949",
+        "t40": "#616161",
+        "t50": "#7A7A7A",
+        "t60": "#939393",
+        "t70": "#ADADAD",
+        "t80": "#C9C9C9",
+        "t90": "#E5E5E5",
+        "t100": "#FFFFFF"
+      },
+      "feedback": {
+        "success": "#2D8654",
+        "warning": "#D18100",
+        "error": "#C92B2B"
+      },
+      "typography": {
+        "title": "red",
+        "text": "blue"
+      },
+      "shade": {
+        "primary": {
+          "t30": "#665C33",
+          "t50": "#AA9A55",
+          "t60": "#CCC299",
+          "t70": "#DDD7BB",
+          "t80": "#ECE9DA",
+          "t95": "#F6F5EE"
+        },
+        "secondary": {
+          "t30": "#775B22",
+          "t50": "#C79838",
+          "t60": "#DDC188",
+          "t70": "#E9D6AF",
+          "t80": "#F3E8D3",
+          "t95": "#F9F5EB"
+        }
+      }
+    }
+  },
+  "config": {
+    "metadata": {
+      "title": "SD - Meta Bank",
+      "description": "Service Desk da Meta Bank"
+    }
+  }
+}
